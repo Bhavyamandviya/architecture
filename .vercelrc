@@ -1,0 +1,8 @@
+{
+  "build": {
+    "command": "vite build --production"
+  },
+  "framework": {
+    "name": "vite"
+  }
+}
