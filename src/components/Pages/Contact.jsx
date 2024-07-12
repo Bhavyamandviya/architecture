@@ -11,7 +11,7 @@ const Contact = () => {
                 <h1>Contact Us</h1>
                 <ul>
                   <li>
-                    <a href="/architecture">Home</a>
+                    <a href="/">Home</a>
                   </li>
                   <li>Contact Us </li>
                 </ul>

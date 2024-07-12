@@ -16,7 +16,7 @@ const ServicesDetails = () => {
                 <h1>Service Details</h1>
                 <ul>
                   <li>
-                    <a href="/architecture">Home</a>
+                    <a href="/">Home</a>
                   </li>
                   <li>Service Details</li>
                 </ul>

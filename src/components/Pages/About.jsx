@@ -30,7 +30,7 @@ const About = () => {
                 <h1>About Us</h1>
                 <ul>
                   <li>
-                    <a href="/architecture">Home</a>
+                    <a href="/">Home</a>
                   </li>
                   <li>About Us </li>
                 </ul>
