@@ -22,7 +22,7 @@ const Services = () => {
                 <h1>Services</h1>
                 <ul>
                   <li>
-                    <a href="/">Home</a>
+                    <a href="/architecture">Home</a>
                   </li>
                   <li>Services</li>
                 </ul>

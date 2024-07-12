@@ -49,10 +49,10 @@ const Navheader = () => {
           <div className="row align-items-center">
             <div className="col-lg-2">
               <div className="logo">
-                <a className="logo_img" href="/" title="hendre">
+                <a className="logo_img" href="/architecture" title="hendre">
                   <img src={logo} alt="logo" />
                 </a>
-                <a className="main_sticky" href="/" title="hendre">
+                <a className="main_sticky" href="/architecture" title="hendre">
                   <img src={logo} alt="logo" />
                 </a>
               </div>
@@ -61,7 +61,7 @@ const Navheader = () => {
               <nav className="hendre_menu">
                 <ul className="nav_scroll">
                   <li>
-                    <Link to="/">Home </Link>
+                    <Link to="/architecture">Home </Link>
                   </li>
                   <li>
                     <Link to="/about">About </Link>
@@ -129,7 +129,7 @@ const Navheader = () => {
               style={menuOn ? { display: "none" } : { display: "block" }}
             >
               <li>
-                <Link to="/">Home</Link>
+                <Link to="/architecture">Home</Link>
               </li>
               <li>
                 <Link to="/about">About</Link>
